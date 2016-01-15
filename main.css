@@ -1,0 +1,82 @@
+/* Escribe tu css aqui */
+.uno{
+	background-color:yellow; 
+	height: 100px;
+}
+.dos{
+	background-color:red; 
+	height: 100px;
+}
+.tres{
+	background-color:yellow; 
+	height: 100px;
+}
+.unoin{
+	background-color:yellow; 
+	height: 100px;
+	width: 160px;
+	padding:10px; 
+	margin: 10px;
+}
+.dosin{
+	background-color:red; 
+	height: 100px;
+	width: 160px;
+	padding:10px;
+	margin: 10px;
+}
+.tresin{
+	background-color:yellow; 
+	height: 100px;
+	width: 160px;
+	padding:10px;
+	margin: 10px; 
+}
+.unobl{
+	background-color:yellow; 
+	height: 100px;
+	width: 160px;
+	padding:10px; 
+	display: inline-block;
+	margin: 10px;
+}
+.dosbl{
+	background-color:red; 
+	height: 100px;
+	width: 160px;
+	padding:10px;
+	display: inline-block;
+	margin: 10px;
+}
+.tresbl{
+	background-color:yellow; 
+	height: 100px;
+	width: 160px;
+	padding:10px;
+	display: inline-block;
+	margin: 10px; 
+}
+.unoon{
+	background-color:yellow; 
+	height: 100px;
+	width: 160px;
+	padding:10px; 
+	display: inline;
+	margin: 10px;
+}
+.doson{
+	background-color:red; 
+	height: 100px;
+	width: 160px;
+	padding:10px;
+	display: inline;
+	margin: 10px;
+}
+.treson{
+	background-color:yellow; 
+	height: 100px;
+	width: 160px;
+	padding:10px;
+	display: inline;
+	margin: 10px; 
+}
